@@ -4,7 +4,7 @@ public class JohnWick{
   
   public static void main(String [] args){
     
-    System.out.println("John Wick hacked the project"):
+    System.out.println("John Wick hacked the project");
   }
   
 }
