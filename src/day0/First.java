@@ -5,11 +5,11 @@ public class First {
     public static void main(String[] args) {
 
 
-        //TODO: Works on this tomorrow
-        // add some cool code
+        System.out.println("I love java and python");
+        System.out.println("working progress...");
 
         // I am taking python course from Harvard University to be master of code
-        System.out.println("I will learn python");
+        System.out.println("I will know coding with python");
 
     }
 
