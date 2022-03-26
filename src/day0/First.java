@@ -8,6 +8,7 @@ public class First {
         //TODO: Works on this tomorrow
         // add some cool code
 
+        // I am taking python course from Harvard University to be master of code
         System.out.println("I will learn python");
 
     }
